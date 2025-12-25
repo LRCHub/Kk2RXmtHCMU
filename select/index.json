@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Blanket（feat. pinoko）",
+  "base_artist": "YACA IN DA HOUSE",
+  "createdAt": "2025-12-25T14:36:35.093489Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blanket (feat. pinoko)",
+      "artist": "YACA IN DA HOUSE",
+      "has_synced": false,
+      "path": "select/pl_01_Blanket_(feat._pinoko)_YACA_IN_DA_HOUSE.txt"
+    }
+  ]
+}
